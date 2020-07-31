@@ -45,7 +45,7 @@ banner() {
 printf "\e[1;92m INSTAGRAM BRUTEFORCER :) :)  \e[0m\n"
 printf "\e[1;92m PLEASE USE PROXYCHAINS OR VPN BEFORE USING IT \e[0m\n"
 printf "\e[1;92m I WILL BE NOT RESPONSIBLE WHEN INSTGRAM CATCHES YOU :) :) \e[0m\n"
-printf "\e[1;92m CODED BY PRANAV \e[0m\n"
+printf "\e[1;92m CODED BY KRISHNA PRANAV \e[0m\n"
 printf "\n"
 }
 
