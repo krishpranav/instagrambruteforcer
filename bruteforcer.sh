@@ -36,13 +36,10 @@ fi
 
 }
 
-banner() {
-
-printf "\e[1;92m INSTAGRAM BRUTEFORCER   \e[0m\n"
-printf "\e[1;92m PLEASE USE PROXYCHAINS OR VPN BEFORE USING IT \e[0m\n"
-printf "\e[1;92m I WILL BE NOT RESPONSIBLE WHEN INSTGRAM CATCHES YOU :) :) \e[0m\n"
-printf "\e[1;92m TOOL IS CREATED BY KRISHNA PRANAV \e[0m\n"
-printf "\n"
+author(){
+printf "\e[1;92m TOOL IS CREATED BY KRISNA PRANAV \e[1;92m \n"
+printf "\e[1;92m Github Link https://www.github.com/krishpranav \e[1;92m \n"
+printf "\e[1;92m Do Not Forget To Follow ME \e[1;92m \n"
 }
 
 function start() {
@@ -204,3 +201,4 @@ case "$1" in --resume) resume ;; *)
 start
 bruteforcer
 esac
+author()
